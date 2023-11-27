@@ -66,3 +66,11 @@ Run the web app (then view in the browser at http://localhost:5000/):
 export FLASK_APP=web_app
 flask run
 ```
+
+## Testing
+
+Run tests:
+
+```sh
+pytest
+```
