@@ -47,14 +47,14 @@ Run the unemployment report:
 
 ```sh
 python app/unemployment.py
-#python ~m app.unemployment
+#python -m app.unemployment
 ```
 
 Run the stocks report:
 
 ```sh
 python app/stocks.py
-#python ~m app.stocks
+#python -m app.stocks
 ```
 
 Send an example email:
