@@ -12,7 +12,9 @@ python-dotenv
 
 sendgrid==6.5.0
 
+# web
+flask
+gunicorn
 
 # TEST
-
 pytest
