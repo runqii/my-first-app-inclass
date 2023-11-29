@@ -94,7 +94,3 @@ Run tests:
 pytest
 ```
 
-# ADDITIONS FOR WEB APP / DEPLOY:
-
-flask # <--- ADD FOR RUNNING WEB APP LOCALLY
-gunicorn # <--- ADD FOR DEPLOYING / HOSTING
