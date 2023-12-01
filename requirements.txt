@@ -12,9 +12,10 @@ python-dotenv
 
 sendgrid==6.5.0
 
-# web
 flask
-gunicorn
 
 # TEST
 pytest
+
+# PRODUCTION SERVER NEEDS THIS TO RUN THE WEB APP:
+gunicorn
